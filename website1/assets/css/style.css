@@ -2,3 +2,21 @@
     background-image:url(../img/bg.jpg);
     padding: 5px;
 }
+body{
+    background: #BDBDBD;
+}
+
+.bg {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-right: 15%;
+
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+
