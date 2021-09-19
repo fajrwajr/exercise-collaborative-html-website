@@ -29,3 +29,7 @@ body{
     background-color: yellow;
     margin-top: 20px;
 }
+#icon img{
+    display: block;
+    margin: auto;
+}
