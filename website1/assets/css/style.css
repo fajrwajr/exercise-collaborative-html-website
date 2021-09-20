@@ -39,3 +39,10 @@ body{
  .card {
      background-color: rgb(233, 203, 36);
  }
+
+ .lead {
+     color: white;
+ }
+ .display-3 {
+    color: white;
+ }
