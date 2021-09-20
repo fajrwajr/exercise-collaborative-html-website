@@ -21,10 +21,11 @@ body{
 }
 .carousel{
     margin-top: 20px;
+   
 
 }
 #conform{
-    background-color: rgb(228, 198, 29);
+    background-color: rgb(233, 203, 36);
     margin-top: 20px;
 }
 .navbar img {
@@ -33,4 +34,8 @@ body{
   }
  .navbar {
      background-color: black;
+ }
+
+ .card {
+     background-color: rgb(233, 203, 36);
  }
