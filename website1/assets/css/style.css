@@ -24,10 +24,13 @@ body{
 
 }
 #conform{
-    background-color: yellow;
+    background-color: rgb(228, 198, 29);
     margin-top: 20px;
 }
 .navbar img {
     margin: 0px auto;
     display: block;
   }
+ .navbar {
+     background-color: black;
+ }
